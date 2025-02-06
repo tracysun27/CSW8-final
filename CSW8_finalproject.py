@@ -1,7 +1,6 @@
 # Tracy Sun, CSW 8 (F21)
 
 '''
-SO I HAVE TO DO THIS SHIT AS WELL apparently:
 You must correctly and appropriately comment your code
 to clearly explain your solution.
 
